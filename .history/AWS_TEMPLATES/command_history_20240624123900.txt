@@ -1,0 +1,92 @@
+
+  503  git add README.md
+  504  git commit -m "first commit"
+  505  git branch -M main
+  506  git remote add origin https://github.com/DEL-ORG/s7agnes-do-it-yourself.git
+  507  git push -u origin main
+  508  ls
+  509  git clone https://github.com/DEL-ORG/s7agnes-do-it-yourself.git
+  510  ls
+  511  cd s7agnes-do-it-yourself/
+  512  git clone https://github.com/DEL-ORG/Eric-do-it-yourself.git
+  513  ls
+  514  cp -r Eric-do-it-yourself/do-it-yourself
+  515  cp -r Eric-do-it-yourself /do-it-yourself
+  516  cp -r Eric-do-it-yourself/do-it-yourself ./s7agnes-do-it-yourself/
+  517  ls
+  518  cd Eric-do-it-yourself/
+  519  ls
+  520  ls -la
+  521  ls
+  522  cd do-it-yourself/
+  523  ls
+  524  cd ..
+  525  cd ..
+  526  pwd
+  527  ls
+  528  rm -rf Eric-do-it-yourself/
+  529  ls
+  530  rm -rf s7agnes-do-it-yourself/
+  531  ls
+  532  rm -rf README.md 
+  533  ls
+  534  ls
+  535  git clone https://github.com/DEL-ORG/Eric-do-it-yourself.git
+  536  ls
+  537  cp -r Eric-do-it-yourself/do-it-yourself .
+  538  ls
+  539  cp -r Eric-do-it-yourself/sonar-project.properties .
+  540  ls
+  541  cp -r Eric-do-it-yourself/Jenkinsfile .
+  542  rm -rf Eric-do-it-yourself/
+  543  ls
+  544  git add .
+  545  git commit -m "added s7agnes-do-it-yourself"
+  546  git pus
+  547  git push
+  548  cd ..
+  549  mkdir TEMPLATES
+  550  ls
+  551  ls
+  552  cd AWS_TEMPLATES/
+  553  ls
+  554  vim aws_launch_template.sh 
+  555  chmod +x aws_launch_template.sh 
+  556  ./aws_launch_template.sh 
+  557  aws ec2 describe-images --owners amazon --filters "Name=name,Values=amzn2-ami-hvm-*-x86_64-gp2" --query "Images[*].[ImageId,Name]" --output text
+  558  vim aws_launch_template.sh 
+  559  chmod +x aws_launch_template.sh 
+  560  ./aws_launch_template.sh 
+  561  ls
+  562  aws ec2 describe-images --owners amazon --filters "Name=name,Values=amzn2-ami-hvm-*-x86_64-gp2" --query "Images[*].[ImageId,Name]" --output text
+  563  ls
+  564  chmod +x corrected-file-ec2-aws-template.sh 
+  565  ./corrected-file-ec2-aws-template.sh 
+  566  sudo apt-get install jq   # For Debian/Ubuntu
+  567  sudo yum install jq       # For CentOS/RHEL
+  568  brew install jq           # For macOS
+  569  # Download jq binary
+  570  curl -L -o jq https://stedolan.github.io/jq/download/linux64/jq
+  571  # Make it executable
+  572  chmod +x ./jq
+  573  # Move it to a directory in your PATH, for example, /usr/local/bin
+  574  mv jq /usr/local/bin
+  575  # Verify the installation
+  576  jq --version
+  577  ls
+  578  chmod +x corrected-file-ec2-aws-template.sh 
+  579  ./corrected-file-ec2-aws-template.sh 
+  580  chmod +x corrected-file-ec2-aws-template.sh 
+  581  ./corrected-file-ec2-aws-template.sh 
+  582  vim describe_ami.py
+  583  python describe_ami.py
+  584  pip install boto3
+  585  python describe_ami.py
+  586  git add .
+  587  git add .
+  588  git commit -m "second commit"
+  589  git push
+  590  git pull
+  591  git push
+  592  history
+  593  history > command_history.txt

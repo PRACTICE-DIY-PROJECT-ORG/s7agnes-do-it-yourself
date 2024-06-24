@@ -1,0 +1,500 @@
+   94  ls -la |grep -i git
+   95  rm -rf .git/
+   96  git init
+   97  rm -rf .git/
+   98  cd Downloads
+   99  ls -la |grep -i .pem/
+  100  ls -la |grep -i .pem
+  101  ls -la |grep -i ".pem"
+  102  ls -la 
+  103  ls
+  104  ls -la |grep -i ".pem"
+  105  rm -rf  Test 3.pem
+  106  rm -rf  Thursday230817-key.pem
+  107  rm -rf   annie 3 key.pem
+  108  rm -rf   annie-key-pair.pem
+  109  rm -rf    annie-key-pair.pem
+  110  rm -rf    annie-ssh-key (1).pem
+  111  rm -rf    ans-master-key.pem
+  112  rm -rf    tuesday-key-pair.pem
+  113  rm -rf    svr3_key-pair.pem
+  114  rm -rf   srv4-key.pem
+  115  rm -rf   srv3-key.pem
+  116  rm -rf    srv2-key.pem
+  117   ls -la |grep -i ".pem"
+  118  rm -rf Test 3.pem
+  119  rm -rf annie 3 key.pem
+  120  rm -rf  annie-ssh-key (1).pem
+  121  rm -rf   s5annie.pem
+  122  rm -rf   esso-key-pair.pem
+  123  rm -rf   odilia-key.pem
+  124  rm -rf   git-practice-key-pair.pem
+  125  ls -la |grep -i ".pem"
+  126  rm -rf   Test 3.pem
+  127  rm -rf *.pem
+  128  ls -la 
+  129  ls -la |grep .pem
+  130  clear
+  131  chmod 400 ansible-key.pem
+  132  ssh -i "ansible-key.pem" ubuntu@ec2-54-158-31-14.compute-1.amazonaws.com
+  133  chmod 400 ansible-key.pem
+  134  ssh -i "ansible-key.pem" root@ec2-3-93-193-72.compute-1.amazonaws.com
+  135  ssh -i "ansible-key.pem" ubuntu@ec2-3-93-193-72.compute-1.amazonaws.com
+  136  history
+  137  chmod 400 ansible-key.pem
+  138  ssh -i "ansible-key.pem" ubuntu@ec2-18-212-115-194.compute-1.amazonaws.com
+  139  ls -la |grep -i .pem
+  140  rm -rf ansible-key.pem
+  141  ls -la |grep -i .pem
+  142  chmod 400 ansible-key.pem
+  143  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  144  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  145  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  146  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  147  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  148  ssh -i "ansible-key.pem" ubuntu@ec2-54-147-229-131.compute-1.amazonaws.com
+  149  chmod 400 ansible-key.pem
+  150  ssh -i "ansible-key.pem" ubuntu@ec2-3-89-135-32.compute-1.amazonaws.com
+  151  ls -la |grep -i .pem
+  152  rm -rf ansible-key.pem
+  153  ls -la |grep -i .pem
+  154  chmod 400 ansible-key.pem
+  155  ssh -i "ansible-key.pem" ubuntu@ec2-35-172-140-62.compute-1.amazonaws.com
+  156  chmod 400 ansible-key.pem
+  157  ssh -i "ansible-key.pem" ubuntu@ec2-54-167-85-67.compute-1.amazonaws.com
+  158  chmod 400 ansible-key.pem
+  159  ssh -i "ansible-key.pem" ubuntu@ec2-54-226-57-218.compute-1.amazonaws.com
+  160  chmod 400 ansible-key.pem
+  161  ssh -i "ansible-key.pem" ubuntu@ec2-54-235-232-109.compute-1.amazonaws.com
+  162  ls -la
+  163  ls -la |grep -i .pem
+  164  rm -rf  ansible-key.pem
+  165  ls -la |grep -i .pem
+  166  ls -la | grep -i .pem
+  167  chmod 400 jenkins-key.pem
+  168  ssh -i "jenkins-key.pem" ubuntu@ec2-34-204-96-51.compute-1.amazonaws.com
+  169  chmod 400 jenkins-key.pem
+  170  ssh -i "jenkins-key.pem" ubuntu@ec2-34-204-96-51.compute-1.amazonaws.com
+  171  ls -la |grep -i .pem
+  172  ls 
+  173  ls -la
+  174  ls -la | grep -i .pem
+  175  chmod 400 jenkins-key.pem
+  176  ssh -i "jenkins-key.pem" ec2-user@ec2-3-80-236-133.compute-1.amazonaws.com
+  177  ls -la | grep -i .pem
+  178  rm -rf jenkins-key.pem
+  179  ssh -i ec2key.pem ec2-user@18.221.230.236
+  180  ssh -i ec2key.pem ec2-user@18.221.230.236
+  181  chmod 400 ec2key.pem
+  182  ssh -i "ec2key.pem" ec2-user@ec2-18-221-230-236.us-east-2.compute.amazonaws.com
+  183  ssh -i "ec2key.pem" ec2-user@ec2-18-221-230-236.us-east-2.compute.amazonaws.com
+  184  ssh -i "ec2key.pem" ec2-user@ec2-18-221-230-236.us-east-2.compute.amazonaws.com
+  185  chmod 400 ec2key.pem
+  186   ssh -i "ec2key.pem" ec2-user@ec2-18-221-230-236.us-east-2.compute.amazonaws.com
+  187  chmod 400 jenkins-key-pair1.pem
+  188  ssh -i "jenkins-key-pair1.pem" ubuntu@ec2-52-90-116-121.compute-1.amazonaws.com
+  189  ssh -i "jenkins-key-pair1.pem" root@ec2-52-90-116-121.compute-1.amazonaws.com
+  190  ssh -i "jenkins-key-pair1.pem" ubuntu@ec2-52-90-116-121.compute-1.amazonaws.com
+  191  ssh -i "jenkins-key-pair1.pem" ubuntu@ec2-52-90-116-121.compute-1.amazonaws.com
+  192  ls -la | grep -i .pem
+  193  rm -rf jenkins-key-pair.pem
+  194  ls -la | grep -i .pem
+  195  rm -rf jenkins-key-pair1.pem
+  196  ls -la | grep -i .pem
+  197  ssh -i "ec2key.pem" ec2-user@ec2-18-221-230-236.us-east-2.compute.amazonaws.com
+  198  ssh -i "s5-jenkins-agent-dev-key.pem" ubuntu@ec2-18-188-136-87.us-east-2.compute.amazonaws.com
+  199  chmod 400 s5-jenkins-agent-dev-key.pem
+  200  ssh -i "s5-jenkins-agent-dev-key.pem" ubuntu@ec2-18-188-136-87.us-east-2.compute.amazonaws.com
+  201  chmod 400 jenkins1-master1-key.pem
+  202  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-196-246-149.compute-1.amazonaws.com
+  203  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-196-246-149.compute-1.amazonaws.com
+  204  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-196-246-149.compute-1.amazonaws.com
+  205  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-196-246-149.compute-1.amazonaws.com
+  206  chmod 400 jenkins1-agent1_key.pem
+  207  ssh -i "jenkins1-agent1_key.pem" ubuntu@ec2-54-221-185-243.compute-1.amazonaws.com
+  208  ssh -i "jenkins1-agent1_key.pem" ubuntu@ec2-54-221-185-243.compute-1.amazonaws.com
+  209  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-196-246-149.compute-1.amazonaws.com
+  210  ssh -i "jenkins1-agent1_key.pem" ubuntu@ec2-54-221-185-243.compute-1.amazonaws.com
+  211  ssh -i "sonarqube-key.pem" ubuntu@ec2-34-207-144-130.compute-1.amazonaws.com
+  212  chmod 400 something-simple-key.pem
+  213  ssh -i "something-simple-key.pem" ubuntu@ec2-18-188-124-134.us-east-2.compute.amazonaws.com
+  214  ssh -i "something-simple-key.pem" ubuntu@ec2-18-188-124-134.us-east-2.compute.amazonaws.com
+  215  ssh -i "jenkins3-master3_key.pem" ubuntu@ec2-3-137-97-56.us-east-2.compute.amazonaws.com
+  216  cat jenkins3-master3_key.pem
+  217  chmod 400 jenkins1-master1-key.pem
+  218  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-54-157-22-56.compute-1.amazonaws.com
+  219  clear
+  220  TERRAFORM-IN-THE-C-DRIVE --version
+  221  terraform.1.0.0 --version
+  222  tf1 --version
+  223  cd
+  224   tf1 --version
+  225   tf1 --version
+  226  terraform --version
+  227  terraform --version
+  228  terraform --version
+  229  terraform --version
+  230  terraform --version
+  231  terraform --version
+  232  terraform --version
+  233  terraform --version
+  234  terraform --version
+  235  terraform --version
+  236  terraform.1.2.6 --version
+  237  terraform.1.0.0 --version
+  238  terraform_1.0.0 --version
+  239  ls -a ~/.aws
+  240  chmod 400 jenkins1-master1-key.pem
+  241  ssh -i "jenkins1-master1-key.pem" ubuntu@ec2-3-95-241-91.compute-1.amazonaws.com
+  242  s5annie@server1.anomicatech.com
+  243  ssh-keygen -R server1.anomicatech.com
+  244  ssh-keygen -R server2.anomicatech.com
+  245  ssh-keygen -R server3.anomicatech.com
+  246  s5annie@server1.anomicatech.com
+  247  cat /etc/shells
+  248  ls
+  249  cat /etc/shells
+  250  ping
+  251  ping google.com
+  252  hotname
+  253  hostname
+  254  id
+  255  ip
+  256  ip a
+  257  ssh-heygen -R server1.anomicatech.com
+  258  ssh-heygen -R server2.anomicatech.com
+  259  ssh-heygen -R server3.anomicatech.com
+  260  s5annie@anomicatech.com
+  261  chmod 400 "Mumbai.pem"
+  262  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-201-105.compute-1.amazonaws.com
+  263  chmod 400 "Mumbai.pem"
+  264  chmod 400 "Mumbai.pem"
+  265  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-201-105.compute-1.amazonaws.com
+  266  [200~/opt/sonar-scanner
+  267  where sonar-scanner
+  268  dir C:\sonar-scanner /s /b
+  269  dir "C:\Program Files\SonarQube\sonar-scanner" /s /b
+  270  echo %PATH%
+  271  chmod 400 "Mumbai.pem"
+  272  ssh -i "Mumbai.pem" ubuntu@ec2-3-232-89-221.compute-1.amazonaws.com
+  273  chmod 400 "Mumbai.pem"
+  274  ssh -i "Mumbai.pem" ubuntu@ec2-3-232-89-221.compute-1.amazonaws.com
+  275  chmod 400 "Mumbai.pem"
+  276  ssh -i "Mumbai.pem" ubuntu@ec2-35-175-128-23.compute-1.amazonaws.com
+  277  chmod 400 "Mumbai.pem"
+  278  ssh -i "Mumbai.pem" ubuntu@ec2-52-3-205-235.compute-1.amazonaws.com
+  279  chmod 400 "Mumbai.pem"
+  280  ssh -i "Mumbai.pem" ubuntu@ec2-100-25-33-159.compute-1.amazonaws.com
+  281  ssh s5annie@anomicatech.com
+  282  cd Downloads/
+  283  cd /tmp/workspace
+  284  aws configure
+  285  aws service-quotas list-services --region us-east-1
+  286  aws configure
+  287  aws service-quotas list-services --region us-east-1
+  288  aws configure
+  289  aws service-quotas list-services --region us-east-1
+  290  aws service-quotas list-services
+  291  chmod 400 "Linux-VM-Key7.pem"
+  292  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-100-25-192-158.compute-1.amazonaws.com
+  293  git clone https://github.com/bettysami/a-youtube-clone-app.git
+  294  ls
+  295  ls -la
+  296  cd a-youtube-clone-app/
+  297  pwd
+  298  ls
+  299  vim README.md 
+  300  git add .
+  301  git commit -m "modified README.md file"
+  302  git push origin main
+  303  git config --global credential.helper store
+  304  git config --global user.name "bettysami"
+  305  git config --global credential.helper store
+  306  git push origin main
+  307  git credential reject
+  308  git credential reject github.com
+  309  git push origin main
+  310  git config --global --list
+  311  git credential reject
+  312  git config --global user.email "bettysami2024@gmail.com"
+  313  git config --global --list
+  314  git push origin main
+  315  git config --global user.name "bettysami"
+  316  git config --global user.email "bettysami2024@gmail.com"
+  317  git config --global --list
+  318  git push origin main
+  319  git remote -v
+  320  git credential-cache exit
+  321  git push origin main
+  322  git config --global --unset credential.helper
+  323  git push origin main
+  324  git init
+  325  git push origin main
+  326  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  327  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  328  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  329  ssh-keygen -t rsa -b 4096 -C "bettysami2024@gmail.com"
+  330  cat (/c/Users/13477/.ssh/id_rsa)
+  331  cat /c/Users/13477/.ssh/id_rsa
+  332  eval "$(ssh-agent -s)"
+  333  ssh-add ~/.ssh/id_rsa
+  334  cat ~/.ssh/id_rsa.pub
+  335  ls ~/ .ssh/
+  336  git remote -v
+  337  git remote set-url origin git@github.com:bettysami/a-youtube-clone-app.git
+  338  git push origin main
+  339  clear
+  340  cd src/
+  341  ls
+  342  cd components/
+  343  ls
+  344  vim Sidebar.jsx 
+  345  git add .
+  346  git commit -m "modified the Sidebar.jsx file, changed color from blue to red"
+  347  git push origin main
+  348  chmod 400 "Linux-VM-Key7.pem"
+  349  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-35-153-93-25.compute-1.amazonaws.com
+  350  chmod 400 "Linux-VM-Key7.pem"
+  351  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-162-104-9.compute-1.amazonaws.com
+  352  cd Downloads
+  353  cd Downloads/
+  354  ls -la
+  355  ls
+  356  cd ~
+  357  ls
+  358  ls -la
+  359  cd /Downloads
+  360  cd Downloads/
+  361  chmod 400 "Linux-VM-Key7.pem"
+  362  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-89-58-209.compute-1.amazonaws.com
+  363  chmod 400 "Linux-VM-Key7.pem"
+  364  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-144-240-75.compute-1.amazonaws.com
+  365  sudo systemctl status prometheus
+  366  chmod 400 "Linux-VM-Key7.pem"
+  367  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-54-144-240-75.compute-1.amazonaws.com
+  368  chmod 400 "Linux-VM-Key7.pem"
+  369  ssh -i "Linux-VM-Key7.pem" ubuntu@ec2-35-175-105-209.compute-1.amazonaws.com
+  370  aws --version
+  371  aws configure
+  372  iam users
+  373  aws iam users
+  374  aws iam list-users
+  375  aws iam list-users                               | list-virtual-mfa-devices            
+  376  aws configure list
+  377  aws iam list-users
+  378  aws iam list-users --debug
+  379  aws iam list-users
+  380  aws iam list-users
+  381  aws iam list-users
+  382  aws iam list-users
+  383  aws iam list-users
+  384  pip install --upgrade awscli
+  385  aws iam list-users
+  386  aws iam list-virtual-mfa-devices
+  387  aws configure --profile admin-test
+  388  aws iam list-users
+  389  aws s3 ls --profile admin-test
+  390  aws configure list
+  391  pip install --upgrade awscli
+  392  aws configure list
+  393  pip uninstall awscli
+  394  pip install awscli
+  395  aws --version
+  396  aws configure
+  397  aws iam list-users
+  398  docker-compose --version
+  399  echo $PATH
+  400  docker-compose --version
+  401  ls /c/Program\ Files/Docker/Docker/resources/bin
+  402  echo $PATH
+  403  source ~/.bashrc
+  404  docker-compose --version
+  405  docker --version
+  406  docker-compose --version
+  407  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker.exe /usr/local/bin/docker
+  408  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker-compose.exe /usr/local/bin/docker-compose
+  409  mkdir -p /usr/local/bin
+  410  mkdir -p ~/bin
+  411  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker.exe ~/bin/docker
+  412  ln -s /c/Program\ Files/Docker/Docker/resources/bin/docker-compose.exe ~/bin/docker-compose
+  413  notepad ~/.bashrc
+  414  source ~/.bashrc
+  415  docker --version
+  416  docker-compose --version
+  417  code ~/.bashrc
+  418  chmod 400 "admin_test_key_pair.pem"
+  419  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  420  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  421  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  422  chmod 400 "admin_test_key_pair.pem"
+  423  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  424  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  425  chmod 400 "admin_test_key_pair.pem"
+  426  ssh -i "admin_test_key_pair.pem" ubuntu@ec2-54-226-89-177.compute-1.amazonaws.com
+  427  chmod 400 "admin_test_key_pair.pem"
+  428  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  429  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  430  chmod 400 "admin_test_key_pair.pem"
+  431  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  432  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-208-173-196.compute-1.amazonaws.com
+  433  chmod 400 "admin_test_key_pair.pem"
+  434  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-234-2-163.compute-1.amazonaws.com
+  435  chmod 400 "admin_test_key_pair.pem"
+  436  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  437  chmod 400 "admin_test_key_pair.pem"
+  438  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  439  chmod 400 "admin_test_key_pair.pem"
+  440  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-84-114-75.compute-1.amazonaws.com
+  441  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  442  exit
+  443  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  444  exit
+  445  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  446  exit
+  447  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  448  exit
+  449  chmod 400 "admin_test_key_pair.pem"
+  450  ec2-3-90-252-148.compute-1.amazonaws.com
+  451  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-90-252-148.compute-1.amazonaws.com
+  452  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  453  exit
+  454  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  455  exit
+  456  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  457  exit
+  458  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  459  exit
+  460  chmod 400 "admin_test_key_pair.pem"
+  461  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-54-87-239-172.compute-1.amazonaws.com
+  462  chmod 400 "admin_test_key_pair.pem"
+  463  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-3-90-239-156.compute-1.amazonaws.com
+  464  chmod 400 "admin_test_key_pair.pem"
+  465  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-52-5-61-3.compute-1.amazonaws.com
+  466  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  467  exit
+  468  chmod 400 "admin_test_key_pair.pem"
+  469  [200~ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com~
+  470  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  471  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  472  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  473  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-212-203-65.compute-1.amazonaws.com
+  474  chmod 400 "admin_test_key_pair.pem"
+  475  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-100-25-136-131.compute-1.amazonaws.com
+  476  chmod 400 "admin_test_key_pair.pem"
+  477  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-18-207-207-104.compute-1.amazonaws.com
+  478  chmod 400 "admin_test_key_pair.pem"
+  479  ssh -i "admin_test_key_pair.pem" ec2-user@ec2-52-91-124-54.compute-1.amazonaws.com
+  480  wq
+  481  9;5uwq
+  482  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  483  exit
+  484  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  485  exit
+  486  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  487  exit
+  488  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  489  exit
+  490  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  491  exit
+  492  jenkins
+  493  sudo service jenkins start
+  494  cd "C:\Program Files (x86)\Jenkins"
+  495  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  496  exit
+  497  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  498  exit
+  499  bash -c 'for W in $(wmctrl -l |grep "Visual Studio Code" |awk '"'"'{print $1}'"'"'); do xprop -id $W -format _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * 97 / 100))); done'
+  500  exit
+  501  echo "# s7agnes-do-it-yourself" >> README.md
+  502  git init
+  503  git add README.md
+  504  git commit -m "first commit"
+  505  git branch -M main
+  506  git remote add origin https://github.com/DEL-ORG/s7agnes-do-it-yourself.git
+  507  git push -u origin main
+  508  ls
+  509  git clone https://github.com/DEL-ORG/s7agnes-do-it-yourself.git
+  510  ls
+  511  cd s7agnes-do-it-yourself/
+  512  git clone https://github.com/DEL-ORG/Eric-do-it-yourself.git
+  513  ls
+  514  cp -r Eric-do-it-yourself/do-it-yourself
+  515  cp -r Eric-do-it-yourself /do-it-yourself
+  516  cp -r Eric-do-it-yourself/do-it-yourself ./s7agnes-do-it-yourself/
+  517  ls
+  518  cd Eric-do-it-yourself/
+  519  ls
+  520  ls -la
+  521  ls
+  522  cd do-it-yourself/
+  523  ls
+  524  cd ..
+  525  cd ..
+  526  pwd
+  527  ls
+  528  rm -rf Eric-do-it-yourself/
+  529  ls
+  530  rm -rf s7agnes-do-it-yourself/
+  531  ls
+  532  rm -rf README.md 
+  533  ls
+  534  ls
+  535  git clone https://github.com/DEL-ORG/Eric-do-it-yourself.git
+  536  ls
+  537  cp -r Eric-do-it-yourself/do-it-yourself .
+  538  ls
+  539  cp -r Eric-do-it-yourself/sonar-project.properties .
+  540  ls
+  541  cp -r Eric-do-it-yourself/Jenkinsfile .
+  542  rm -rf Eric-do-it-yourself/
+  543  ls
+  544  git add .
+  545  git commit -m "added s7agnes-do-it-yourself"
+  546  git pus
+  547  git push
+  548  cd ..
+  549  mkdir TEMPLATES
+  550  ls
+  551  ls
+  552  cd AWS_TEMPLATES/
+  553  ls
+  554  vim aws_launch_template.sh 
+  555  chmod +x aws_launch_template.sh 
+  556  ./aws_launch_template.sh 
+  557  aws ec2 describe-images --owners amazon --filters "Name=name,Values=amzn2-ami-hvm-*-x86_64-gp2" --query "Images[*].[ImageId,Name]" --output text
+  558  vim aws_launch_template.sh 
+  559  chmod +x aws_launch_template.sh 
+  560  ./aws_launch_template.sh 
+  561  ls
+  562  aws ec2 describe-images --owners amazon --filters "Name=name,Values=amzn2-ami-hvm-*-x86_64-gp2" --query "Images[*].[ImageId,Name]" --output text
+  563  ls
+  564  chmod +x corrected-file-ec2-aws-template.sh 
+  565  ./corrected-file-ec2-aws-template.sh 
+  566  sudo apt-get install jq   # For Debian/Ubuntu
+  567  sudo yum install jq       # For CentOS/RHEL
+  568  brew install jq           # For macOS
+  569  # Download jq binary
+  570  curl -L -o jq https://stedolan.github.io/jq/download/linux64/jq
+  571  # Make it executable
+  572  chmod +x ./jq
+  573  # Move it to a directory in your PATH, for example, /usr/local/bin
+  574  mv jq /usr/local/bin
+  575  # Verify the installation
+  576  jq --version
+  577  ls
+  578  chmod +x corrected-file-ec2-aws-template.sh 
+  579  ./corrected-file-ec2-aws-template.sh 
+  580  chmod +x corrected-file-ec2-aws-template.sh 
+  581  ./corrected-file-ec2-aws-template.sh 
+  582  vim describe_ami.py
+  583  python describe_ami.py
+  584  pip install boto3
+  585  python describe_ami.py
+  586  git add .
+  587  git add .
+  588  git commit -m "second commit"
+  589  git push
+  590  git pull
+  591  git push
+  592  history
+  593  history > command_history.txt
